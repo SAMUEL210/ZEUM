@@ -1,0 +1,10 @@
+Premiere Mise a jour de Zeum::: de 1.0 -----> 1.6
+
+Couleur et Affichage 								// Fait
+Police des texte saisie dans les Entry						// Fait
+Ajout du traitement des fichier Textos (.xto)					// Fait
+les Scrollbar 									// Fait
+Decryptage texte non crypte par zeum						// Fait
+Correction erreur d'affichage de cle pendant que phrase sacrete est actif	// Fait
+
+V 1.6
